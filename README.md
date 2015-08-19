@@ -1,3 +1,3 @@
-cambma-data.github.io
-=====================
+cambridgedata.github.io
+=======================
 GitHub Pages for City of Cambridge.
